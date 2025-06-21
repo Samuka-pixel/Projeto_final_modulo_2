@@ -2,5 +2,5 @@
 projeto final
 TEMA ---> CLIMA
 Funções:  -Laura: GUI
-          -Maria:
-          -Samuel:
+          -Maria: API's
+          -Samuel: Defs
